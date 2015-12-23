@@ -12,3 +12,5 @@ Expectations:
 - Use HTML5
 - Add JavaScript validation to search box
 - Expand/Collapse sub menu using JavaScript
+
+<img src="https://raw.githubusercontent.com/rodionovsasha/UITestTask/master/images/screenshot.png"/>
