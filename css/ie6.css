@@ -1,0 +1,23 @@
+.clear {
+    zoom: 1;
+}
+
+.clearfix {
+    zoom: 1;
+}
+
+nav {
+    margin: 0 15px 0 7px;
+}
+
+#journalMenu ul li {
+    padding: 0 0 3px 0;
+}
+
+section {
+    padding: 0 0 45px 0;
+}
+
+#search .error {
+    border: 1px solid red;
+}
