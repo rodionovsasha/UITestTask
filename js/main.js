@@ -1,6 +1,7 @@
 /*
  Scripts using jQuery.
  */
+//Anonymous "self-invoking" function
 $(function () {
     // Expand/Collapse sub-menus
     $('#journalMenu').on('click', "ul li a", function () {
